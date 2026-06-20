@@ -57,8 +57,6 @@ Me apasiona el desarrollo multiplataforma y tengo un interés muy fuerte enfocad
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mityaroot&theme=dark" width="750" alt="Estadísticas de mityaroot" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mityaroot&layout=compact&theme=dark&hide_border=false&langs_count=6" width="610" alt="Lenguajes Más Usados por Dmitriy" />
 
 </div>
