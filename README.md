@@ -22,8 +22,6 @@ Me apasiona el desarrollo multiplataforma y tengo un interés muy fuerte enfocad
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dmitriy_Tchoumakov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriy-tchoumakov-baranova-1a27753b9/)
 
-📩 **Contacto directo:** `movildimi@gmail.com`
-
 </div>
 
 ---
